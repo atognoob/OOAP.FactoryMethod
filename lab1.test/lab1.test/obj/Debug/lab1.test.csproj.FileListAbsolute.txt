@@ -1,0 +1,10 @@
+Z:\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\obj\Debug\lab1.test.csproj.AssemblyReference.cache
+Z:\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\obj\Debug\lab1.test.Properties.Resources.resources
+Z:\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\obj\Debug\lab1.test.csproj.GenerateResource.cache
+Z:\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\obj\Debug\lab1.test.csproj.CoreCompileInputs.cache
+Z:\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\bin\Debug\lab1.test.exe.config
+Z:\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\bin\Debug\lab1.test.exe
+Z:\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\bin\Debug\lab1.test.pdb
+Z:\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\obj\Debug\lab1.test.exe
+Z:\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\obj\Debug\lab1.test.pdb
+Z:\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\obj\Debug\lab1.test.Form1.resources
