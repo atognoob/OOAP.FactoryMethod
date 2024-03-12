@@ -8,3 +8,13 @@ Z:\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\bi
 Z:\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\obj\Debug\lab1.test.exe
 Z:\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\obj\Debug\lab1.test.pdb
 Z:\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\obj\Debug\lab1.test.Form1.resources
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\bin\Debug\lab1.test.exe.config
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\bin\Debug\lab1.test.exe
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\bin\Debug\lab1.test.pdb
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\obj\Debug\lab1.test.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\obj\Debug\lab1.test.Form1.resources
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\obj\Debug\lab1.test.Properties.Resources.resources
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\obj\Debug\lab1.test.csproj.GenerateResource.cache
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\obj\Debug\lab1.test.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\obj\Debug\lab1.test.exe
+\\Mac\Home\Documents\семестр 6\ООАП\OOAP.FactoryMethod\lab1.test\lab1.test\obj\Debug\lab1.test.pdb
